@@ -1,0 +1,16 @@
+{
+  "fart":
+  {
+    "sounds":
+    [
+      "leaziurds-fabric:fart"
+    ]
+  },
+  "ui_ui":
+  {
+    "sounds":
+    [
+      "leaziurds-fabric:ui_ui"
+    ]
+  }
+}

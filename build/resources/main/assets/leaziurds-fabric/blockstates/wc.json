@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "facing=north": { "model": "leaziurds-fabric:block/wc" },
+    "facing=east":  { "model": "leaziurds-fabric:block/wc", "y":  90},
+    "facing=south": { "model": "leaziurds-fabric:block/wc", "y": 180 },
+    "facing=west":  { "model": "leaziurds-fabric:block/wc", "y": 270 }
+  }
+}
